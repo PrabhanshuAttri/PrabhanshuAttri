@@ -8,10 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a remote learning platform called Alive, for NYU Mechanical and Aerospace Department in collaboration with New
-York City Fire Department.
-- 🌱 I’m currently learning how to cook.
-- 👯 I’m looking to collaborate on [BentoML](https://github.com/bentoml/BentoML) - an open-source framework for high-performance ML model serving.
+- 🔭 I’m currently working at Microsoft as a Software Engineer.
+- 🌱 I’m currently learning edit photos and videos.
 - 🤔 I’m looking for help with [AhaEvent](https://www.ahaevent.org/) - an open-source serverless platform for a curated list of technology events.
 - 💬 Ask me about engineering consumer-facing products and open source.
 - 📫 How to reach me: [LinkedIn](https://www.prabhanshu.com/linkedin) | [Twitter](https://www.prabhanshu.com/twitter)
